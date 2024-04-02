@@ -1,0 +1,4 @@
+name,bus0,bus1,x,r,build_year,carrier,x_pu_eff,r_pu_eff,v_nom
+Line 01,Bus 0,Bus 1,0.1,0.01,0,AC,0.00025,2.5e-05,20.0
+Line 12,Bus 1,Bus 2,0.1,0.01,0,AC,0.00025,2.5e-05,20.0
+Line 20,Bus 2,Bus 0,0.1,0.01,0,AC,0.00025,2.5e-05,20.0
